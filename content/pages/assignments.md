@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6b6d54c4-31e2-03d3-1e67-836cd9281c3a
 ---
@@ -93,7 +96,7 @@ Cyclical paths
 
 ### Problem 1
 
-Even though the objective function is not strictly concave, you can still prove that there is a unique optimal policy using F being (weakly) concave in x and y and strictly concave in y. For an example of a strictly concave F that yields non-unique steady states try: F(x,y) = - (1/2)x2 + (18/19)xy - (9/20)y2 with beta = 9/10.
+Even though the objective function is not strictly concave, you can still prove that there is a unique optimal policy using F being (weakly) concave in x and y and strictly concave in y. For an example of a strictly concave F that yields non-unique steady states try: F(x,y) = - (1/2)x{{< sup "2" >}} + (18/19)xy - (9/20)y{{< sup "2" >}} with beta = 9/10.
 
 ### Problem 4.2
 
