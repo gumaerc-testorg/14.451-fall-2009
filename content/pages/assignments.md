@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 6b6d54c4-31e2-03d3-1e67-836cd9281c3a
 ---
@@ -47,7 +48,7 @@ Optimal saving in finite time
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset1))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 6830cccb-461b-7837-9fca-41f342bb6f0d "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Non-differentiabilities
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset2))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 47c8930a-e9be-ae10-93f1-c49fd89c2886 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ beta = 0.5
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset3))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 3cc76fb7-d321-d16e-b12d-fae8a085d4f0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +129,7 @@ Optimal control
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset4))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 7c7cfdad-c358-dee7-7035-8d67c2744525 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
