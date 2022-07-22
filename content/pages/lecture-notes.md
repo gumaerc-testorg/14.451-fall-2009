@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  schedule of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: acbda5b6-4bba-8e1e-7821-3274cc3d2c12
 ---
@@ -52,19 +57,19 @@ Nonstationary models
 {{< tdopen >}}
 
 
-Lecture 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec01))
+Lecture 1 ({{% resource_link 153fed04-2d14-925f-b52c-9b1c8c246fa4 "PDF" %}})
 
-Lecture 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec02))
+Lecture 2 ({{% resource_link ff82dafd-0152-de90-edde-af85941db846 "PDF" %}})
 
-Lecture 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec03))
+Lecture 3 ({{% resource_link b416a412-1d26-d717-1baa-877220854847 "PDF" %}})
 
-Lecture 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec04))
+Lecture 4 ({{% resource_link 292d8d56-e8f2-a8c4-8288-a9ffafee5ead "PDF" %}})
 
-Lecture 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec05))
+Lecture 5 ({{% resource_link 52f960cf-4c44-a2d7-1395-1aaf1c6fdbbf "PDF" %}})
 
-Lecture 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec06))
+Lecture 6 ({{% resource_link b10fce03-0ca5-3313-ff69-ce207cc1c822 "PDF" %}})
 
-Lecture 7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec07))
+Lecture 7 ({{% resource_link b181215a-ba60-2a52-8d7d-555e41846a42 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -94,9 +99,9 @@ Stochastic dynamics
 {{< tdopen >}}
 
 
-Lecture 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec08))
+Lecture 8 ({{% resource_link 2bb2df70-bec3-5570-87b2-d38f5093a1af "PDF" %}})
 
-Lecture 9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec09))
+Lecture 9 ({{% resource_link 9d7bc370-6857-d226-2b44-fa3a7451a8dd "PDF" %}})
 
 
 {{< tdclose >}}
@@ -126,7 +131,7 @@ Saddle-path stability
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec10))
+Lecture 10 ({{% resource_link 7db0775f-bdf7-92af-ff92-a24b8456fc85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
